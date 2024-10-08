@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a CS Education researcher looking at the interplay between metacognition, self-regulation, and disciplinary strategies during the programming process.
 <!--
 **aysehunt-NU/aysehunt-NU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
